@@ -1,3 +1,52 @@
+# 🏨 QuickStay - Modern Hotel & Room Booking Platform
+
+🔗 ## 🌐 Live Demo* [quickstay-app.vercel.app]()
+
+A full-featured, responsive, and type-safe web application designed for booking rooms and managing property listings. **QuickStay** connects travelers looking for convenient accommodation with property owners offering seamlessly managed room options.
+
+---
+
+## ✨ Features
+
+### 👤 For Guests
+* **Dynamic Search & Browsing:** Filter available rooms by category, amenities, and pricing.
+* **Seamless Authentication:** Secure sign-in and account management powered by **Clerk**.
+* **Interactive Booking:** Effortlessly view booking details and manage reservations via *My Bookings*.
+* **Responsive Design:** Optimized user interface across all screen sizes with smooth UI transitions and backdrop-blur navigation effects.
+
+### 🔑 For Property Owners (Owner Dashboard)
+* **Add & Edit Rooms:** Full control over adding room descriptions, amenities selection, dynamic pricing, and uploading multiple preview images.
+* **Availability Toggle:** Instant real-time toggle to update room availability (`Available` / `Booked`).
+* **Manage Listings:** Organized table view to track and manage all active listings easily.
+  
+---
+
+## 🛠️ Tech Stack
+
+- **[React.js] Component-based UI library 
+- **Language:** [TypeScript] Static typing for robust error prevention and developer velocity
+- **Vite:** Fast next-generation frontend tooling and build runner
+- **Styling:** [Tailwind CSS] Utility-first CSS framework for custom responsive styling
+- **Routing:** [React Router v6] To navigate between pages
+- **Authentication:** [Clerk Auth] To verify user identity
+- **Icons:** SVG Icons for fast website
+
+<div align="center">
+
+| 🏨 Guest Experience & Booking | 🔑 Owner Dashboard |
+| :---: | :---: |
+| <img src="./src/assets/preview.png" alt="Preview" width="100%"/> "
+</div>
+---
+### 📱 Mobile Responsiveness
+<div align="center">
+
+| Mobile View | Navigation Drawer |
+| :---: | :---: |
+| <img src="./src/assets/preview-mobile.png" alt="Mobile Preview" width="280"/> 
+</div>
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
