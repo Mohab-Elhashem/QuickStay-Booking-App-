@@ -12,6 +12,7 @@ import { AddRoom } from "./pages/hotelOwner/AddRoom"
 import { ListRoom } from "./pages/hotelOwner/ListRoom"
 import { Experience } from "./pages/Experience"
 import { About } from "./pages/About"
+import ScrollToTop from "./shared/ScrollToTop"
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
 
   return (
     <div className="min-h-screen flex flex-col">
+      <ScrollToTop />
       {!isOwnerPath && <Navbar />}
       { false && <HotelReg/>}
       <main className="flex-1">
