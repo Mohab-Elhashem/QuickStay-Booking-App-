@@ -1,6 +1,6 @@
 # 🏨 QuickStay - Modern Hotel & Room Booking Platform
 
-🔗 ## 🌐 Live Demo* [quickstay-app.vercel.app]()
+🔗 ## 🌐 Live Demo* [quickstay-app.vercel.app](quick-stay-booking-app.vercel.app)
 
 A full-featured, responsive, and type-safe web application designed for booking rooms and managing property listings. **QuickStay** connects travelers looking for convenient accommodation with property owners offering seamlessly managed room options.
 
@@ -32,19 +32,11 @@ A full-featured, responsive, and type-safe web application designed for booking 
 - **Icons:** SVG Icons for fast website
 
 <div align="center">
-
 | 🏨 Guest Experience & Booking | 🔑 Owner Dashboard |
 | :---: | :---: |
 | <img src="./src/assets/preview.png" alt="Preview" width="100%"/> "
 </div>
----
-### 📱 Mobile Responsiveness
-<div align="center">
 
-| Mobile View | Navigation Drawer |
-| :---: | :---: |
-| <img src="./src/assets/preview-mobile.png" alt="Mobile Preview" width="280"/> 
-</div>
 
 
 # React + TypeScript + Vite
