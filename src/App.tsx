@@ -5,7 +5,6 @@ import Footer from "./components/Footer"
 import { AllRooms } from "./pages/AllRooms"
 import RoomDetails from "./pages/RoomDetails"
 import Booking from "./pages/Booking"
-import { HotelReg } from "./pages/HotelReg"
 import { Layout } from "./pages/hotelOwner/Layout"
 import { Dashboard } from "./pages/hotelOwner/Dashboard"
 import { AddRoom } from "./pages/hotelOwner/AddRoom"
@@ -23,7 +22,6 @@ function App() {
     <div className="min-h-screen flex flex-col">
       <ScrollToTop />
       {!isOwnerPath && <Navbar />}
-      { false && <HotelReg/>}
       <main className="flex-1">
         <Routes>
           <Route path="/" element={<Home />} />
