@@ -1,6 +1,6 @@
 # 🏨 QuickStay - Modern Hotel & Room Booking Platform
 
-🔗 ## 🌐 Live Demo* [quickstay-app.vercel.app](quick-stay-booking-app.vercel.app)
+🔗 ## 🌐 Live Demo* [quickstay-app.vercel.app](https://quick-stay-booking-app.vercel.app/)
 
 A full-featured, responsive, and type-safe web application designed for booking rooms and managing property listings. **QuickStay** connects travelers looking for convenient accommodation with property owners offering seamlessly managed room options.
 
